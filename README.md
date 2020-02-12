@@ -18,6 +18,9 @@ Software Architecture
 - TCP/IP/HTTP
 - Unix philosophy
 - MVC, MVP, MVVM
-- Cloud concepts
+- Distributed system concepts
 - and many more...
 But is it possible to keep it simple?
+
+##Few thoughts
+- keep the functions in microservice small enough to be represented by sequence diagram (uml).
