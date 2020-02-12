@@ -21,6 +21,5 @@ Software Architecture
 - Distributed system concepts
 - and many more...
 But is it possible to keep it simple?
-
-##Few thoughts
+## Few thoughts
 - keep the functions in microservice small enough to be represented by sequence diagram (uml).
