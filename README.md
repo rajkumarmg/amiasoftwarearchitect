@@ -21,5 +21,7 @@ Software Architecture
 - Distributed system concepts
 - and many more...
 But is it possible to keep it simple?
+## Non-Functional requiremengts
+- TBD.
 ## Few thoughts
 - keep the functions in microservice small enough to be represented by sequence diagram (uml).
