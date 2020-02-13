@@ -2,7 +2,7 @@
 Software Architecture
 ## Going to capture few things that I came across related to software architecture
 - UML
-- 4 + 1 view by Philippe Kruchten (https://en.wikipedia.org/wiki/4%2B1_architectural_view_model, https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf)
+- 4+1 view by Philippe Kruchten
 - Design patterns
 - Data structures & Algorithms
 - SOLID principles
@@ -19,9 +19,8 @@ Software Architecture
 - Unix philosophy
 - MVC, MVP, MVVM
 - Distributed system concepts
+- Non-Functional requirements
 - and many more...
-But is it possible to keep it simple?
-## Non-Functional requiremengts
-- TBD.
+But can it be made as simple as 4+1 view by Philippe Kruchten?
 ## Few thoughts
 - keep the functions in microservice small enough to be represented by sequence diagram (uml).
