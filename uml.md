@@ -1,2 +1,0 @@
-### Unified Modelling Language
-- TBD.
