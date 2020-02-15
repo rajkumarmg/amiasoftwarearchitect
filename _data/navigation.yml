@@ -1,6 +1,0 @@
-main:
-  - title: "Software Architecture"
-    url: README.md
-  - title: "uml"
-    url: uml.md
-  
