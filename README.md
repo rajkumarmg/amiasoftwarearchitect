@@ -1,6 +1,6 @@
 # softwarearchitecture
 Software Architecture
-## Going to capture few things that I came across related to software architecture
+## List of subjects related to software architecture
 - UML
 - 4+1 view by Philippe Kruchten
 - Estimation
