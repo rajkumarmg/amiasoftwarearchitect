@@ -3,6 +3,8 @@ Software Architecture
 ## Going to capture few things that I came across related to software architecture
 - UML
 - 4+1 view by Philippe Kruchten
+- Estimation
+- Tools and techniques
 - Design patterns
 - Data structures & Algorithms
 - SOLID principles
@@ -21,6 +23,3 @@ Software Architecture
 - Distributed system concepts
 - Non-Functional requirements
 - and many more...
-But can it be made as simple as 4+1 view by Philippe Kruchten?
-## Few thoughts
-- keep the functions in microservice small enough to be represented by sequence diagram (uml).
