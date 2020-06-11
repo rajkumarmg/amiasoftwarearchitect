@@ -21,5 +21,7 @@ Software Architecture
 - Unix philosophy
 - MVC, MVP, MVVM
 - Distributed system concepts
+- Cloud
 - Non-Functional requirements
+- Authentication and Authorization
 - and many more...
