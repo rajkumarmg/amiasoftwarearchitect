@@ -1,5 +1,5 @@
 # softwarearchitecture
-Software Architecture
+Software Architecture is the art of designing software systems.
 ## List of subjects related to software architecture
 - UML
 - 4+1 view by Philippe Kruchten
